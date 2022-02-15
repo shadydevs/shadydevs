@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadydevs
+- 👋 Hi, I’m Shady Nessim
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Web development and machine learning
 - 📫 How to reach me on [linkedin](https://www.linkedin.com/in/shady-nessim53/) or on [twitter](https://www.twitter.com/not_so_shady_)
